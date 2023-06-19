@@ -1,2 +1,3 @@
-# lightning
-a serverless server
+# 
+⚡ Lightning ⚡
+A serverless server.
