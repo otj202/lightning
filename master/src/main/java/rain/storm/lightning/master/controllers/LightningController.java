@@ -1,4 +1,4 @@
-package rain.storm.lightning.controllers;
+package rain.storm.lightning.master.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

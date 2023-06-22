@@ -1,13 +1,13 @@
-package rain.storm.lightning;
+package rain.storm.lightning.master;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Lightning {
+public class LightningMaster {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Lightning.class, args);
+		SpringApplication.run(rain.storm.lightning.master.LightningMaster.class, args);
 	}
 
 }
