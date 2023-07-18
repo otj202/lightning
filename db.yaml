@@ -1,0 +1,9 @@
+apiVersion: apps/v1
+kind: Pod
+metadata:
+  name: postgres
+spec:
+  name: postgres
+  image: postgres
+  ports:
+    containerPort: 5432
