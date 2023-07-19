@@ -35,3 +35,8 @@ The Master does 3 things.
 
 
 TODO: configure LinkerD to run in your cluster and add it to the deployment script. (we can wait on this, until we actually start spinning up load balancers...)
+
+TODO: if you can, make the package just :
+
+
+	` package lightning; `
