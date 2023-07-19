@@ -4,7 +4,7 @@ metadata:
   name: postgres
 spec:
   containers:
-    name: postgres
+  - name: postgres
     image: postgres
     ports:
-      containerPort: 5432
+    - containerPort: 5432
