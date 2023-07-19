@@ -4,7 +4,7 @@ The Master does 3 things.
 	
 	(i) Creates a docker image based on input code, cpu, memory, and environment variables along with numerous config options tbd.
 	
-	(ii) Creates a Kubernetes Pod with that docker image, which will mount the shared drive
+	(ii) Creates a Kubernetes Pod with that docker image
 	
 	(iii) Creates a Deployment with that pod
 	
